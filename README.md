@@ -1,3 +1,5 @@
 # Hello-World
-This repository is for practicing the GitHub Flow
+First Repository
+
+About Me
 I am a student at the University of Iowa
