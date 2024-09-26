@@ -3,7 +3,7 @@
 ## Description 
 Practice using GitHub by creating a <sub>sample repository</sub>.
 ### How to Run a Program
-1. I don't have much codin experince
+1. I don't have much coding experince
 2. I don't know sample programs to put here
 3. Thank you for reading
 #### Files Used 
