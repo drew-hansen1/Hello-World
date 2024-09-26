@@ -1,5 +1,3 @@
-TABLE OF CONTENTS
-https://github.com/drew-hansen1/Hello-World?tab=readme-ov-file#project-title
 # Project Title
 ***Hello World Sample***
 ## Description 
